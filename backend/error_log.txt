@@ -1,0 +1,91 @@
+[20-Aug-2025 10:39:21 UTC] PHP Warning:  Undefined variable $conn in /home/etrainae/public_html/api/profile.php on line 58
+[20-Aug-2025 10:39:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/etrainae/public_html/api/profile.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/etrainae/public_html/api/profile.php on line 58
+[20-Aug-2025 10:39:27 UTC] PHP Warning:  Undefined variable $conn in /home/etrainae/public_html/api/profile.php on line 58
+[20-Aug-2025 10:39:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/etrainae/public_html/api/profile.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/etrainae/public_html/api/profile.php on line 58
+[20-Aug-2025 10:39:29 UTC] PHP Warning:  Undefined variable $conn in /home/etrainae/public_html/api/profile.php on line 58
+[20-Aug-2025 10:39:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/etrainae/public_html/api/profile.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/etrainae/public_html/api/profile.php on line 58
+[20-Aug-2025 10:39:55 UTC] PHP Warning:  Undefined variable $conn in /home/etrainae/public_html/api/profile.php on line 58
+[20-Aug-2025 10:39:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/etrainae/public_html/api/profile.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/etrainae/public_html/api/profile.php on line 58
+[20-Aug-2025 10:40:02 UTC] PHP Warning:  Undefined variable $conn in /home/etrainae/public_html/api/profile.php on line 58
+[20-Aug-2025 10:40:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/etrainae/public_html/api/profile.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/etrainae/public_html/api/profile.php on line 58
+[20-Aug-2025 10:43:23 UTC] PHP Warning:  Undefined array key "name" in /home/etrainae/public_html/api/profile.php on line 121
+[20-Aug-2025 10:43:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 121
+[20-Aug-2025 10:43:23 UTC] PHP Warning:  Undefined array key "title" in /home/etrainae/public_html/api/profile.php on line 125
+[20-Aug-2025 10:43:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 125
+[20-Aug-2025 10:43:23 UTC] PHP Warning:  Undefined array key "company" in /home/etrainae/public_html/api/profile.php on line 129
+[20-Aug-2025 10:43:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 129
+[20-Aug-2025 10:43:23 UTC] PHP Warning:  Undefined array key "location" in /home/etrainae/public_html/api/profile.php on line 133
+[20-Aug-2025 10:43:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 133
+[20-Aug-2025 10:43:23 UTC] PHP Warning:  Undefined array key "experience" in /home/etrainae/public_html/api/profile.php on line 137
+[20-Aug-2025 10:43:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 137
+[20-Aug-2025 10:43:23 UTC] PHP Warning:  Undefined array key "phone" in /home/etrainae/public_html/api/profile.php on line 152
+[20-Aug-2025 10:43:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 152
+[20-Aug-2025 10:43:23 UTC] PHP Warning:  Undefined array key "linkedin_url" in /home/etrainae/public_html/api/profile.php on line 156
+[20-Aug-2025 10:43:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 156
+[20-Aug-2025 10:43:23 UTC] PHP Warning:  Undefined array key "professional_bio" in /home/etrainae/public_html/api/profile.php on line 167
+[20-Aug-2025 10:43:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 167
+[20-Aug-2025 10:43:23 UTC] PHP Warning:  Undefined array key "areas_of_interest" in /home/etrainae/public_html/api/profile.php on line 171
+[20-Aug-2025 10:43:23 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 171
+[20-Aug-2025 10:46:31 UTC] PHP Warning:  Undefined array key "profile_picture_url" in /home/etrainae/public_html/api/profile.php on line 68
+[20-Aug-2025 10:46:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 68
+[20-Aug-2025 10:46:31 UTC] PHP Warning:  Undefined array key "name" in /home/etrainae/public_html/api/profile.php on line 71
+[20-Aug-2025 10:46:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 71
+[20-Aug-2025 10:46:31 UTC] PHP Warning:  Undefined array key "title" in /home/etrainae/public_html/api/profile.php on line 72
+[20-Aug-2025 10:46:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 72
+[20-Aug-2025 10:46:31 UTC] PHP Warning:  Undefined array key "company" in /home/etrainae/public_html/api/profile.php on line 73
+[20-Aug-2025 10:46:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 73
+[20-Aug-2025 10:46:31 UTC] PHP Warning:  Undefined array key "location" in /home/etrainae/public_html/api/profile.php on line 77
+[20-Aug-2025 10:46:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 77
+[20-Aug-2025 10:46:31 UTC] PHP Warning:  Undefined array key "experience" in /home/etrainae/public_html/api/profile.php on line 78
+[20-Aug-2025 10:46:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 78
+[20-Aug-2025 10:46:31 UTC] PHP Warning:  Undefined array key "phone" in /home/etrainae/public_html/api/profile.php on line 96
+[20-Aug-2025 10:46:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 96
+[20-Aug-2025 10:46:31 UTC] PHP Warning:  Undefined array key "company" in /home/etrainae/public_html/api/profile.php on line 100
+[20-Aug-2025 10:46:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 100
+[20-Aug-2025 10:46:31 UTC] PHP Warning:  Undefined array key "linkedin_url" in /home/etrainae/public_html/api/profile.php on line 104
+[20-Aug-2025 10:46:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 104
+[20-Aug-2025 10:46:31 UTC] PHP Warning:  Undefined array key "linkedin_url" in /home/etrainae/public_html/api/profile.php on line 104
+[20-Aug-2025 10:46:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 104
+[20-Aug-2025 10:46:31 UTC] PHP Warning:  Undefined array key "professional_bio" in /home/etrainae/public_html/api/profile.php on line 115
+[20-Aug-2025 10:46:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 115
+[20-Aug-2025 10:46:31 UTC] PHP Warning:  Undefined array key "areas_of_interest" in /home/etrainae/public_html/api/profile.php on line 120
+[20-Aug-2025 10:46:31 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 120
+[20-Aug-2025 10:51:42 UTC] PHP Warning:  Undefined array key "profile_picture_url" in /home/etrainae/public_html/api/profile.php on line 68
+[20-Aug-2025 10:51:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 68
+[20-Aug-2025 10:51:42 UTC] PHP Warning:  Undefined array key "name" in /home/etrainae/public_html/api/profile.php on line 71
+[20-Aug-2025 10:51:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 71
+[20-Aug-2025 10:51:42 UTC] PHP Warning:  Undefined array key "title" in /home/etrainae/public_html/api/profile.php on line 72
+[20-Aug-2025 10:51:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 72
+[20-Aug-2025 10:51:42 UTC] PHP Warning:  Undefined array key "company" in /home/etrainae/public_html/api/profile.php on line 73
+[20-Aug-2025 10:51:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 73
+[20-Aug-2025 10:51:42 UTC] PHP Warning:  Undefined array key "location" in /home/etrainae/public_html/api/profile.php on line 77
+[20-Aug-2025 10:51:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 77
+[20-Aug-2025 10:51:42 UTC] PHP Warning:  Undefined array key "experience" in /home/etrainae/public_html/api/profile.php on line 78
+[20-Aug-2025 10:51:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 78
+[20-Aug-2025 10:51:42 UTC] PHP Warning:  Undefined array key "phone" in /home/etrainae/public_html/api/profile.php on line 96
+[20-Aug-2025 10:51:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 96
+[20-Aug-2025 10:51:42 UTC] PHP Warning:  Undefined array key "company" in /home/etrainae/public_html/api/profile.php on line 100
+[20-Aug-2025 10:51:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 100
+[20-Aug-2025 10:51:42 UTC] PHP Warning:  Undefined array key "linkedin_url" in /home/etrainae/public_html/api/profile.php on line 104
+[20-Aug-2025 10:51:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 104
+[20-Aug-2025 10:51:42 UTC] PHP Warning:  Undefined array key "linkedin_url" in /home/etrainae/public_html/api/profile.php on line 104
+[20-Aug-2025 10:51:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 104
+[20-Aug-2025 10:51:42 UTC] PHP Warning:  Undefined array key "professional_bio" in /home/etrainae/public_html/api/profile.php on line 115
+[20-Aug-2025 10:51:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 115
+[20-Aug-2025 10:51:42 UTC] PHP Warning:  Undefined array key "areas_of_interest" in /home/etrainae/public_html/api/profile.php on line 120
+[20-Aug-2025 10:51:42 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/etrainae/public_html/api/profile.php on line 120
